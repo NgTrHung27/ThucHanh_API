@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Việt Nam",
+    "capital": "Hà Nội",
+    "acreage": "331.690 km²",
+    "continents": "Asia",
+    "population": "97,47 milions"
+  },
+  {
+    "name": "Trung Quốc",
+    "capital": "Bắc Kinh",
+    "acreage": "9.597.000 km²",
+    "continents": "Asia",
+    "population": "1,412 bilions"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "acreage": "1.905.000 km²",
+    "continents": "Asia",
+    "population": "273,8 milions"
+  }
+]
