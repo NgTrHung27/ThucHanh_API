@@ -19,5 +19,12 @@
     "acreage": "100.210 km²",
     "continents": "Asia",
     "population": "51,74 triệu"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "acreage": "103.000 km²",
+    "continents": "Euro",
+    "population": "372.520"
   }
 ]
